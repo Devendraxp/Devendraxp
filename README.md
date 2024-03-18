@@ -37,9 +37,6 @@
 </p>
 
 
-Last Edited on: 2/03/2021
-
-
 <!---
 Devendraxp/Devendraxp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
