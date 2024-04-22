@@ -1,7 +1,7 @@
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Devendra</h1>
 <h3 align="left">An aspiring fullstack developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devendraxp&label=Profile%20views&color=0e75b6&style=flat" alt="sauravchamoli17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devendraxp&label=Profile%20views&color=0e75b6&style=flat" alt="Devendraxp" /> </p>
 
 - 🔭 I’m currently working on **MERN STACK**
 
