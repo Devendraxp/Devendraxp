@@ -1,13 +1,14 @@
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Devendra</h1>
+
 <h3 align="left">An aspiring fullstack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devendraxp&label=Profile%20views&color=0e75b6&style=flat" alt="Devendraxp" /> </p>
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Advance backed and DevOps Technologies**
 
-- 💬 Ask me about **HTML,CSS,JS, NodeJS, ExpressJS, ReactJS**
+- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, NextJS, Docker, Kubernetes, Jenkins**
 
 - 📫 How to reach me **dhuvandevendra@gmail.com**
 
@@ -35,6 +36,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/devendra-dhuvan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saurav-chamoli" height="30" width="40" /></a>
 </p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=devendraxp&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
