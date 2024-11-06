@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **Advance backed and DevOps Technologies**
+- 🌱 I’m currently learning **Advance backend and DevOps Technologies**
 
 - 💬 Ask me about **ReactJS, NodeJS, ExpressJS, NextJS, Docker, Kubernetes, Jenkins**
 
