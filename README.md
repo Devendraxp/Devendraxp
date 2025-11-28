@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Tech Stack**
 
 ### **Languages & Frameworks**
 <p align="center">
